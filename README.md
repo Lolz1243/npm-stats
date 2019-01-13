@@ -4,8 +4,8 @@
 
 # npm-stats
 
-> Generate beautiful charts from your npm package statistics
-> Fully functional version at [npm-stats.org](http://npm-stats.org/#/)
+Generate beautiful charts from your npm package statistics
+Fully functional version at [npm-stats.org](http://npm-stats.org/#/)
 
 ## Build Setup
 
