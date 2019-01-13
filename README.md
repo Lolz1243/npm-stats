@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/Xv2xvly.png" alt="npm-stats" title="npm-stats.org" />
 </p>
 
-# [npm-stats](http://npm-stats.org/#/)
+# npm-stats
 
 Dive in to npm-stats, a fully functional graphical interface for interacting with npm package downloads and installs.
 
@@ -10,8 +10,8 @@ Dive in to npm-stats, a fully functional graphical interface for interacting wit
 I wanted to truly get a headstart in Javascript, and outside of writing memorized lines of npm init and npm install over and over again, I really didn't have a clue about what npm was. That's where npm-stats came in. The website is fully intended to help users identify key npm-packages and easily visualize npm-package data and download data throughout the years of npm's usage. This provides industry-wide developers of all experience levels with important data analytics, empowering them to make better technology decisions, regardless of whether they use npm to build small, personal-level apps or large CRM tools!
 
 ## How I built it
-### Vue.js, Node.js, and npm-api
-npm-stats's creation required building and utilizing functional RESTful APIs and packages to create a responsive site. The site is styled mainly with Charts.js, and a special shoutout goes to @apertureless for creating a Vue.js wrapper for the incredibly versatile Charts.js library. [npm-api](https://www.npmjs.com/package/npm-api) proved incredibly useful for providing clean, efficient npm-package data, and Node.js gave this project the dedicated back-end it needed.
+### Vue.js, Node.js, and [npm-api](https://www.npmjs.com/package/npm-api)
+npm-stats's creation required building and utilizing functional RESTful APIs and packages to create a responsive site. The site is styled mainly with Charts.js, and a special shoutout goes to @apertureless for creating a Vue.js wrapper for the incredibly versatile Charts.js library. npm-api proved incredibly useful for providing clean, efficient npm-package data, and Node.js gave this project the dedicated back-end it needed.
 
 ## Challenges I ran into
 In the process of making the site, I ran into several production issues with Vue and yarn. Additionally, I encountered severe difficulties in terms of backend fallacies and package inconsistencies that needed to be updated consistently.
