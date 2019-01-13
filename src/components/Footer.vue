@@ -1,0 +1,31 @@
+<template>
+  <footer>
+   <span> Build with <a href="https://vuejs.org/" target="_new">Vue.js</a> and <a href="http://vue-chartjs.org/#/" target="_new">vue-chartjs</a></span>
+   <span>💪 Made by <a href="https://linkedin.com/in/nikhil-vytla/" target="_new">Nikhil Vytla</a></span>
+   <span>For issues or feature requests visit <a href="https://github.com/Lolz1243/npm-stats" target="_new">Github</a></span>
+  </footer>
+</template>
+
+<script>
+  export default {
+  }
+</script>
+
+<style lang="scss">
+  @import "../assets/styles/_variables.scss";
+  footer {
+    background-color: color(fjord);
+    color: #fff;
+    font-size: rem(16);
+    padding: rem(30) rem(40);
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row nowrap;
+    a {
+      color: color(robin-egg-blue);
+      @include hover-active-states {
+        background: darken(color(robin-egg-blue), 20%);
+      }
+    }
+  }
+</style>
