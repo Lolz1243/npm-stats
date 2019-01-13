@@ -7,10 +7,7 @@
 Dive in to npm-stats, a fully functional graphical interface for interacting with npm package downloads and installs.
 
 ## Inspiration
-I wanted to truly get a headstart in Javascript, and outside of writing memorized lines of npm init and npm install over and over again, I really didn't have a clue about what npm was. That's where npm-stats came in.
-
-## What npm-stats does
-npm-stats has several functions. The site is intended to help users identify key npm-packages and easily visualize npm-package data and download data throughout the years of npm's usage.
+I wanted to truly get a headstart in Javascript, and outside of writing memorized lines of npm init and npm install over and over again, I really didn't have a clue about what npm was. That's where npm-stats came in. The website is fully intended to help users identify key npm-packages and easily visualize npm-package data and download data throughout the years of npm's usage. This provides industry-wide developers of all experience levels with important data analytics, empowering them to make better technology decisions, regardless of whether they use npm to build small, personal-level apps or large CRM tools!
 
 ## How I built it
 ### Vue.js, Node.js, and the NPM API
