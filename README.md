@@ -28,7 +28,7 @@ I hope to expand the site into a truly responsive site complete with providing s
 ### Contributing!
 If you're interested in contributing, or want to find out more information about the devs, head over to [@apertureless](https://github.com/apertureless).
 
-Made with ♥ in 2019, with special inspiration from Medium and Jakub Juszczak.
+Made with ❤ in 2019, with special inspiration from Medium and Jakub Juszczak.
 
 ## Build Setup
 
