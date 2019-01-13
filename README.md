@@ -26,9 +26,9 @@ Coming into this project as a Vue.js novice, I had absolutely no experience with
 I hope to expand the site into a truly responsive site complete with providing standardized npm-package documentation. I'm also actively pushing myself to create a React-based app for npm-stats, which I hope to develop in due time!
 
 ### Contributing!
-If you're interested in contributing, or want to find out more information about the devs, head over to [@apertureless/npm-stats](https://github.com/apertureless/npm-stats)
+If you're interested in contributing, or want to find out more information about the devs, head over to [@apertureless](https://github.com/apertureless).
 
-Made with ♥ in 2019, with special inspiration from [@apertureless](https://github.com/apertureless)
+Made with ♥ in 2019, with special inspiration from Medium and Jakub Juszczak.
 
 ## Build Setup
 
